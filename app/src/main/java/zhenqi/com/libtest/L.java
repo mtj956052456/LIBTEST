@@ -1,4 +1,4 @@
-package zhenqi.com.mylibrary;
+package zhenqi.com.libtest;
 
 import android.util.Log;
 
